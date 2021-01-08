@@ -1,4 +1,4 @@
-# IHNA_CalendarWorker
-[![Node CI](https://github.com/CorentinBacconnais/IHNA_CalendarWorker/workflows/Node%20CI/badge.svg)](https://github.com/CorentinBacconnais/IHNA_CalendarWorker/actions)
+# IHNA_CalendarService
+[![Node CI](https://github.com/CorentinBacconnais/IHNA_CalendarService/workflows/Node%20CI/badge.svg)](https://github.com/CorentinBacconnais/IHNA_CalendarService/actions)
 
-> Background task that synchronizes the agendas provided by the school and divides them into small group agendas.
+> Allows you to search the calendar by day/week or even make specific searches in the calendar (particular courses, teachers etc...).
