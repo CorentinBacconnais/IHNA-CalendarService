@@ -1,6 +1,6 @@
 const app = require('./app')
-const port = 1901
+var {portCalendarService} = require('../../IHNA_Utils/ihna_port')
 
-app.listen(port, () => {
-  console.log(`App listening in ${port}`)
+app.listen(portCalendarService, () => {
+  console.log(`App listening in ${portCalendarService}`)
 })
